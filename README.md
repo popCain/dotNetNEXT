@@ -28,7 +28,7 @@ sequenceDiagram
     - サーバー内部通信(Axios: Https Agent)
     - ブラウザ外部通信(CORS: api server need to add trust origin url)
 - DotNet Core(HTTPS) ----> NEXT(HTTP)
-    - SPA Proxy(publish file)
+    - SPA Proxy(configure file: *.csproj)
 
 > **Problem:**
 
