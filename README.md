@@ -7,6 +7,10 @@ git clone https://github.com/choukonn/dotNetNext.git
 ```bash
 dotnet run
 ```
+> 必要かも
+```bash
+dotnet dev-certs https --trust
+```
 
 ## NEXTフロントとDotNet Core通信
 
