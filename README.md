@@ -1,7 +1,7 @@
 ## 実行手順
 
 ```bash
-git clone 
+git clone https://github.com/choukonn/dotNetNext.git
 ```
 
 ```bash
