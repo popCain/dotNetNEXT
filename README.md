@@ -48,23 +48,23 @@ sequenceDiagram
 
 ### 言語
 
-    - Typescript
-        - 静的型付け言語
-    - Go
-        - 静的型付け言語
-        - コンパイル単一バイナリ実行ファイル
+- Typescript
+    - 静的型付け言語
+- Go
+    - 静的型付け言語
+    - コンパイル単一バイナリ実行ファイル
 
 ### フレームワーク導入
 
-    - フロント側
-        - NEXT.js
-            - REACTコンポーネントベース
-            - ファイルシステムベースのルーティング
-            - reactよりbiludIn機能多い
-        - CSS(component lib)
-            - Chakra UI
-            - Tailwind CSS(候補)
-        - 状態管理
-            - Recoil
-    - バックエンド側
-        - GIN
+- フロント側
+    - NEXT.js
+        - REACTコンポーネントベース
+        - ファイルシステムベースのルーティング
+        - reactよりbiludIn機能多い
+    - CSS(component lib)
+        - Chakra UI
+        - Tailwind CSS(候補)
+    - 状態管理
+        - Recoil
+- バックエンド側
+    - GIN
