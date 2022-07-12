@@ -44,6 +44,15 @@ sequenceDiagram
     - 課金：[logflare](https://logflare.app/pricing)   |  [sentry-エラーハンドリング](https://sentry.io/pricing/)
 - NEXT/REACTユニットテスト問題
 
+## (REACT Native + dotNet Core)[https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-6.0&tabs=visual-studio]
+
+```bash
+dotnet new react -o my-new-app
+cd my-new-app
+dotnet run
+```
+
+
 ## daidai2.0選定した技術スタック
 
 ### 言語
