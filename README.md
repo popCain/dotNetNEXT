@@ -5,6 +5,7 @@ git clone https://github.com/choukonn/dotNetNext.git
 ```
 
 ```bash
+cd dotNetNext
 dotnet run
 ```
 > 必要かも
