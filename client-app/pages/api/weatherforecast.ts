@@ -10,8 +10,8 @@ export default async function handler(
 ) {
   const httpsAgentForAPI = new https.Agent({
     //ca: fs.readFileSync('/etc/pki/tls/certs/daidai_ca.crt'),
-    cert: fs.readFileSync('C:/Users/chou/AppData/Roaming/ASP.NET/https/my_new_app_react.pem'),
-    key: fs.readFileSync('C:/Users/chou/AppData/Roaming/ASP.NET/https/my_new_app_react.key'),
+    // cert: fs.readFileSync('C:/Users/chou/AppData/Roaming/ASP.NET/https/my_new_app_react.pem'),
+    // key: fs.readFileSync('C:/Users/chou/AppData/Roaming/ASP.NET/https/my_new_app_react.key'),
     rejectUnauthorized: false   // FIXME: しないと[self signed certificate]
   });
 
